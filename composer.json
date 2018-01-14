@@ -20,7 +20,6 @@
         "psr-4": {
             "Laravel\\Spark\\": "app/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
 
